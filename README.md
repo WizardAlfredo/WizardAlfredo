@@ -4,9 +4,9 @@
 
 ##### now
 
-- 🚩 playing CTFs with my team [Th3_Order_Of_th3_pH0en1x](https://ctftime.org/team/149880)
+- 🚩 playing CTFs with my team [Th3_Order_Of_th3_pH0en1x](https://ctftime.org/team/149880).
 - 🤖 crafted last [Th3Os](https://th3os.com) website.
-- 👾 working on [WARS]() and my [dotfiles]().
+- 👾 working on [WARS](https://github.com/WizardAlfredo/WARS/tree/main) and my [dotfiles](https://github.com/WizardAlfredo/dotfiles).
 - 💻 looking to collaborate with other passionate individuals.
 - 🏁 2022 Goals: finish my **TODO** list.
 
