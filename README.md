@@ -13,9 +13,9 @@
 ##### bio
 
 - 🏢 I'm currently working @ **HackTheBox**
-- 🔓 Organized the crypto category on CA CTF 2022.
-- 🧰 I use daily:  `python`, `docker`, `bash`
-- ⚔️ learning about **cryptography** and **hardware** hacking
+- 🔓 Organized the crypto category on CA CTF 2022 and Business CTF 2022.
+- 🧰 I use daily:  `python`, `docker`, `solidity`
+- ⚔️ learning about **cryptography**, **blockchain** and **hardware** hacking
 - ⚡ fun fact: I love art (drawing, painting, playing music, singing, etc.)
 
 ##### badges
