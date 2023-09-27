@@ -1,21 +1,21 @@
 ### Hi there 🌻
 
-#### I'm a Junior Content Engineer
+#### I'm a Senior Content Engineer
 
 ##### now
 
 - 🚩 playing CTFs with my team [Th3_Order_Of_th3_pH0en1x](https://ctftime.org/team/149880).
 - 🤖 crafted last [Th3Os](https://th3os.com) website.
-- 👾 working on [WARS](https://github.com/WizardAlfredo/WARS/tree/main) and my [dotfiles](https://github.com/WizardAlfredo/dotfiles).
+- 👾 working on learning Rust for embedded systems.
 - 💻 looking to collaborate with other passionate individuals.
-- 🏁 2022 Goals: finish my **TODO** list.
+- 🏁 2023 Goals: become an expert in hardware security.
 
 ##### bio
 
 - 🏢 I'm currently working @ **HackTheBox**
-- 🔓 Organized the crypto category on CA CTF 2022 and Business CTF 2022.
-- 🧰 I use daily:  `python`, `docker`, `solidity`
-- ⚔️ learning about **cryptography**, **blockchain** and **hardware** hacking
+- 🔓 Managing the crypto and blockchain category and doing hardware research.
+- 🧰 I use daily:  `python`, `rust`, `docker`, `solidity`
+- ⚔️ learning about **hardware**, **cryptography** and **blockchain** hacking
 - ⚡ fun fact: I love art (drawing, painting, playing music, singing, etc.)
 
 ##### badges
